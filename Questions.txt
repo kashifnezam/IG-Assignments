@@ -1,0 +1,17 @@
+
+
+Q1. 
+Imagine a publishing company which does marketing for book and audiocassette versions. Create a class publication that stores the title (a string) and price (type float) of a publication.From this class derive two classes: book, which adds a page count(type int), and tape, which adds a playing time in minutes(type float). Write a program that instantiates the book and tape classes, allows user to enter data and displays the data members.If an exception is caught, replace all the data member values with zero values.
+g
+
+Q2. 
+Implement a class Complex which represents the Complex Number data type. Implement the following :
+ 1. including a default values.
+ 2. Overload  to add two,three complex numbers. 
+ 3. Overload  to multiply two,three complex numbers.
+ 4. Overloaded methods to print and read Complex Numbers. Implement a class Complex which represents the Complex Number data type. 
+ 5. make max,min,avg,absolute value,isPrime,odd,even,randow. Also show appropriate message.
+
+Q3.
+ We can take input via command line    for N numbers. Create a user defined exception named “nomatchexception” that is fired when the string entered by the user is not “India”.
+
